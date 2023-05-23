@@ -169,13 +169,13 @@ NOTE: Astra Control Center はデュアルスタック Kubernetes クラスタ�
 | 指標利用者 | Astra Control Center ワーカーノード | 9090 | HTTPS | メトリックデータ通信 - 各管理対象クラスタが、アストラコントロールセンターをホストしているクラスタ上のこのポートにアクセスできることを確認します （双方向通信が必要） 
 
 
-| Astra Control Center の略 | Hosted Cloud Insights サービスの略 (https://www.netapp.com/cloud-services/cloud-insights/)[] | 443 | HTTPS | Cloud Insights 通信 
+| Astra Control Center の略 | Hosted Cloud Insights サービスの略  | 443 | HTTPS | Cloud Insights 通信 
 
 
 | Astra Control Center の略 | Amazon S3 ストレージバケットプロバイダ | 443 | HTTPS | Amazon S3 ストレージ通信 
 
 
-| Astra Control Center の略 | NetApp AutoSupport (https://support.netapp.com)[] | 443 | HTTPS | NetApp AutoSupport 通信 
+| Astra Control Center の略 | NetApp AutoSupport  | 443 | HTTPS | NetApp AutoSupport 通信 
 |===
 
 
